@@ -6,6 +6,11 @@
   I am mainly a python dev but I do also know a bit of c# (and vague amounts of others)<br>
   Currently I am working on an overhaul of E621 in the form of <a href='https://github.com/Luna-Suffers/Whiskr'>Whiskr</a><br>
   Thank you for visiting my profile :)</p>
+  <ul>
+    <li>@lunasuffers on X (Twitter)</li>
+    <li>@luna_suffers on Instagram</li>
+    <li>@luna_suffers on Discord</li>
+  </ul>
 
 ###
 
