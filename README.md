@@ -10,9 +10,15 @@
 ###
 
 <div align="left">
-  <img href= 'https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fluna_suffers%2F&is_from_rle' src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img href='https://discord.com/channels/@me/1018921598843113483' src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img href='https://twitter.com/lunasuffers/' src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href= 'https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fluna_suffers%2F&is_from_rle'>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> 
+  </a>
+  <a href='https://discord.com/channels/@me/1018921598843113483'>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href='https://twitter.com/lunasuffers/'>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
