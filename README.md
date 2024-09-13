@@ -4,7 +4,7 @@
 
 <p align="left">Hey I'm Luna! (but you can call me Luni)<br>
   I am mainly a python dev but I do also know a bit of c# (and vague amounts of others)<br>
-  Currently I am working on an overhaul of E621 in the form of <a href='https://github.com/Luna-Suffers/Whiskr'>Whiskr</a><br>
+  Currently I am working on an image board in the form of <a href='https://github.com/Luna-Suffers/Whiskr'>Whiskr</a><br>
   Thank you for visiting my profile :)</p>
   <ul>
     <li>@lunasuffers on X (Twitter)</li>
